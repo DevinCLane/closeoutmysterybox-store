@@ -4,6 +4,10 @@ Building out the store frontend for an e-commerce startup.
 
 Adapted from [Code with Antonio's Ecommerce project](https://www.codewithantonio.com/projects/ecommerce)
 
+Organizational note:
+
+-   components within `/ui` are reused, the others are used mostly once.
+
 ---
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
